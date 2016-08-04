@@ -1,0 +1,31 @@
+_repo: The-Duchess-of-Berry-and-the-Court-of-Charles-X_4289
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Imbert de Saint-Amand
+    aliases:
+    - Saint-Amand, Imbert de
+    - Imbert de Saint-Amand, Arthur Léon, baron
+    - Imbert de Saint-Amand, Arthur Leon, baron
+    birthdate: 1834
+    deathdate: 1900
+    gutenberg_agent_id: '1431'
+    url: http://www.gutenberg.org/2009/agents/1431
+description: ''
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4289'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Berry, Marie-Caroline de Bourbon-Sicile, duchesse de, 1798-1870'
+- !lcsh 'Charles X, King of France, 1757-1836'
+- !lcsh 'France -- History -- Charles X, 1824-1830'
+- !lcsh 'France -- History -- Restoration, 1814-1830'
+- GITenberg
+title: The Duchess of Berry and the Court of Charles X
+url: http://www.gutenberg.org/ebooks/4289
